@@ -10,6 +10,10 @@ En la carpeta 4 se incluye la asignación 4 del curso.
 En la carpeta 5 se incluye la asignación 5 del curso.
 No se desarrolló la actividad 6 del curso.
 
+El proyecto final del curso se puede encontrar dentro de la carpeta:
+6) Proyecto final
+allí están todas las instrucciones para la correcta ejecución del repositorio.
+
 Se recomienda descargar la última versión de anaconda con python 3.x desde el siguiente link:
 https://www.anaconda.com/download/
 
